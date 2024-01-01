@@ -1,3 +1,6 @@
+# This web app intends to provide a visual representation of the various data structures and algorithms using P5.js 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
